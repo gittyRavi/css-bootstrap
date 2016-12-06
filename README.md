@@ -1,2 +1,2 @@
 ## css-bootstrap
-## bootstrap framework based files.
+bootstrap framework based files.
